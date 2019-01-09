@@ -1,0 +1,19 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "A fake API using json-server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch db.json --routes routes.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-tinkerer/fake-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-tinkerer/fake-api/issues"
+  },
+  "homepage": "https://github.com/code-tinkerer/fake-api#readme"
+}
